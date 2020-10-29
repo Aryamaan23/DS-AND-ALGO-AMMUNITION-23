@@ -64,7 +64,7 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 #### Visualisation
 
-[!Alt Text](https://raw.githubusercontent.com/gibsjose/cpp-cheat-sheet/master/Searching/Animations/Breadth-First%20Search.gif)
+![Alt Text](https://raw.githubusercontent.com/gibsjose/cpp-cheat-sheet/master/Searching/Animations/Breadth-First%20Search.gif)
 
 
 ### Link to one month plan
