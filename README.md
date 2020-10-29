@@ -23,6 +23,10 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ![Data Structures Selection](https://user-images.githubusercontent.com/60667917/97530564-6ac72b00-19d8-11eb-8b54-2ff85e76a9be.png)
 
+![image](https://user-images.githubusercontent.com/60667917/97535459-ae726280-19e1-11eb-9367-e4cb201432a5.png)
+
+
+
 ### Link to one month plan
 
 http://30dayscoding.com/
