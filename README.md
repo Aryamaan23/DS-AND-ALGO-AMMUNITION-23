@@ -21,6 +21,8 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ### Data Structures Selection
 
+![Data Structures Selection](https://user-images.githubusercontent.com/60667917/97530564-6ac72b00-19d8-11eb-8b54-2ff85e76a9be.png)
+
 
 
 
