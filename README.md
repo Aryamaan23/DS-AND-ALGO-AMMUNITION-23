@@ -27,7 +27,6 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 http://30dayscoding.com/
 
-https://raw.githubusercontent.com/gibsjose/cpp-cheat-sheet/master/Searching/Animations/Breadth-First%20Search.gif
 
 
 
