@@ -49,6 +49,8 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ![image](https://user-images.githubusercontent.com/60667917/97537446-d2837300-19e4-11eb-9291-73058c005cda.png)
 
+![image](https://user-images.githubusercontent.com/60667917/97537535-f3e45f00-19e4-11eb-8efa-0d91de90cd03.png)
+
 
 
 
