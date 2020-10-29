@@ -84,6 +84,8 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ![Alt Text](https://raw.githubusercontent.com/gibsjose/cpp-cheat-sheet/master/Sorting/Animations/Bubble%20Sort.gif)
 
+![image](https://user-images.githubusercontent.com/60667917/97539333-c947d580-19e7-11eb-9771-277e2373e7d2.png)
+
 
 ### Link to one month plan
 
