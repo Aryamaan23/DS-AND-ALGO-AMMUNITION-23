@@ -86,6 +86,10 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ![image](https://user-images.githubusercontent.com/60667917/97539333-c947d580-19e7-11eb-9771-277e2373e7d2.png)
 
+#### Visualisation
+
+![Alt Text](https://raw.githubusercontent.com/gibsjose/cpp-cheat-sheet/master/Sorting/Animations/Merge%20Sort.gif)
+
 
 ### Link to one month plan
 
@@ -93,6 +97,7 @@ http://30dayscoding.com/
 
 ![Alt Text](https://raw.githubusercontent.com/gibsjose/cpp-cheat-sheet/master/Searching/Animations/Breadth-First%20Search.gif)
 
+![Alt Text](https://raw.githubusercontent.com/gibsjose/cpp-cheat-sheet/master/Sorting/Animations/Merge%20Sort%202.gif)
 
 
 
