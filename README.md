@@ -9,6 +9,8 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ### Common Data Structure Operations
 
+![image](https://user-images.githubusercontent.com/60667917/97528954-ed4deb80-19d4-11eb-9033-0deb40cd98f2.png)
+
 
 
 
