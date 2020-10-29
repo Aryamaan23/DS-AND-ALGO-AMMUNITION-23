@@ -90,6 +90,9 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ![Alt Text](https://raw.githubusercontent.com/gibsjose/cpp-cheat-sheet/master/Sorting/Animations/Merge%20Sort.gif)
 
+![image](https://user-images.githubusercontent.com/60667917/97539699-70c50800-19e8-11eb-9d70-9ed7312ed042.png)
+
+
 
 ### Link to one month plan
 
