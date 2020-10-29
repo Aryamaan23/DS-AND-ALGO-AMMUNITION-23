@@ -15,6 +15,10 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ![image](https://user-images.githubusercontent.com/60667917/97529149-4ddd2880-19d5-11eb-992e-77febdc9244b.png)
 
+### Cheat-Sheet Poster
+
+![image](https://user-images.githubusercontent.com/60667917/97529521-18850a80-19d6-11eb-87d5-59cb3c919f64.png)
+
 
 
 
