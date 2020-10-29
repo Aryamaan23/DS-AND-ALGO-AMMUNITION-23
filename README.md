@@ -60,6 +60,8 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ![Alt Text](https://raw.githubusercontent.com/gibsjose/cpp-cheat-sheet/master/Searching/Animations/Depth-First%20Search.gif)
 
+![image](https://user-images.githubusercontent.com/60667917/97538246-19be3380-19e6-11eb-862f-cc5231144cb7.png)
+
 
 ### Link to one month plan
 
