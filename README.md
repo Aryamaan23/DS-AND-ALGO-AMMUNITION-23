@@ -53,6 +53,7 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ![image](https://user-images.githubusercontent.com/60667917/97537646-22623a00-19e5-11eb-9f2e-69cdb94ebeef.png)
 
+#### Visualisation
 ![Alt Text](https://raw.githubusercontent.com/gibsjose/cpp-cheat-sheet/master/Searching/Animations/Binary%20Search.gif)
 
 
