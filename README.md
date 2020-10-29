@@ -96,9 +96,6 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ![Alt Text](https://raw.githubusercontent.com/gibsjose/cpp-cheat-sheet/master/Sorting/Animations/Quicksort.gif)
 
-
-
-
 ### Link to one month plan
 
 http://30dayscoding.com/
