@@ -70,6 +70,8 @@ Hi there!  This webpage covers the space and time Big-O complexities of common a
 
 ![image](https://user-images.githubusercontent.com/60667917/97538671-cef0eb80-19e6-11eb-9f8c-43d7eb249658.png)
 
+![image](https://user-images.githubusercontent.com/60667917/97538743-eb8d2380-19e6-11eb-9dd8-684263b195e1.png)
+
 
 ### Link to one month plan
 
