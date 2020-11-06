@@ -16,3 +16,26 @@ int main()
 Value of global x is 0
 Value of local x is 10
 
+## 2) To define a function outside a class
+#include<iostream>
+using namespace std;
+
+class A
+{
+public:
+    void fun();
+};
+void A::fun()
+{
+    cout<<"fun() called";
+}
+int main()
+{
+   A a;
+   a.fun();
+   return 0;
+}
+
+###Output:
+fun() called
+
