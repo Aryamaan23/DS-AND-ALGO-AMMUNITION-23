@@ -105,7 +105,9 @@ http://30dayscoding.com/
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 
 
+### Link to Striver's Cheatsheet
 
+https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit
 
 
 
